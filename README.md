@@ -5,3 +5,4 @@ values and details
 heaven helps those who help themselves
 hallelujah
 man is strong
+all the way
