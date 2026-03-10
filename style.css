@@ -17,6 +17,7 @@
     padding-left: 10px;  
 }
 .container h1{
-    color: blue;
+    color: blue; print-color-adjust: exact;
+
 }
  
