@@ -21,6 +21,7 @@
     margin: 10px;
     padding-left: 10px;
     margin-top: 20px;
+   
 
 }
 .container p{
@@ -28,4 +29,5 @@
     margin-right: 10px;
     color: rgb(197, 196, 196);
     font-weight: bolder;
+  margin-bottom: 50px;
 }
