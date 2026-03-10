@@ -1,6 +1,9 @@
 .container{
     background-color: gray;
-    color: red;
+    color: rgb(4, 3, 3);
     width: 500px;
-    height: 200px;
+    height: 150px;
+    padding: 10px;
+    font-size: bold;
+    margin-top: 20px;
 }
