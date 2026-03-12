@@ -5,19 +5,12 @@
  justify-content: center;
 
 }
-.container{
-    background-color: rgb(245, 240, 240);
-    color: #fcf9f9;
-    width: 500px;
-    height: 100px;
-    padding: 10px;
-    font-size: bold;
-    margin-top: 70px;
-    margin-left: 20px;
-    padding-left: 10px;  
+.main{
+    border-radius: 30px;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    position: relative;
 }
-.container h1{
-    column-gap: blue red yellow blue green red ;
-padding-left: 200px;
-}
- 
