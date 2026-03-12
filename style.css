@@ -32,4 +32,8 @@
  }
  .mian.ul{
     background-color: yellow;
+
+ }
+ .main.ul.li{
+    color: red;
  }
