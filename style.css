@@ -17,11 +17,12 @@
  
     
 }
-.btn{
+.botton{
     align-content: center;
     margin: 20px;
     padding: 10px;
     display: flex;
     border-radius: 3px;
     border: none;
+    margin-left: 50px;
 }
