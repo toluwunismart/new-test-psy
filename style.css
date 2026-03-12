@@ -16,10 +16,11 @@
     border: none;
     
 }
-main .btn{
+.btn{
     align-content: center;
-    margin: 30px;
-    padding: 20px;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
     border-radius: 3px;
-    
+    border: none;
 }
