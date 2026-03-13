@@ -18,10 +18,10 @@
     
 }
 .buttonword.botton{
-    margin: 20px;
-    padding: 10px;
+    margin: 50px;
+    padding: 50px;
     display: flex;
-    border-radius: 3px;
+    border-radius: 10px;
     border: none;
     margin-left: 100px;
     padding-left: 100px;
