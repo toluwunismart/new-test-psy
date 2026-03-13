@@ -18,15 +18,13 @@
     
 }
 .buttonword.botton{
-    align-content: center;
     margin: 20px;
     padding: 10px;
     display: flex;
     border-radius: 3px;
     border: none;
-    margin-left: 50px;
-    justify-content: center;
-    padding-left: 70px;
+    margin-left: 100px;
+    padding-left: 100px;
     
  }
  .mian.ul{
