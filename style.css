@@ -30,10 +30,11 @@
     padding-top: 5px;
     margin: 30px;
  }
- .search{
+ .searchkey,search{
     background-color: yellow;
 
  }
  .search li{
     color: red;
+    margin: 20px;
  }
