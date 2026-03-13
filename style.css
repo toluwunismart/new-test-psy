@@ -18,19 +18,19 @@
  
     
 }
-.main.botton{
+.botton{
     
     display: flex;
     border-radius: 10px;
     border: none;
     margin-left: 20px;
     padding-left: 20px;
-    
+    color: green;
  }
  .search{
     background-color: yellow;
 
  }
- .main.ul.li{
+ .search li{
     color: red;
  }
